@@ -21,7 +21,7 @@ Screenshot
 ![list jobs](screen/list_jobs.png)
 
 * list files jobid=1
-![list files jobid](screen/list files jobid=1.png)
+![list files jobid](screen/list_files_jobid=1.png)
 
 * list files jobid=7
-![list files jobid](screen/list files jobid=7.png)
+![list files jobid](screen/list_files_jobid=7.png)
