@@ -16,3 +16,5 @@ list jobs
 list files jobid=<id>
 
 Screenshot
+list jobs
+![Screenshot](screen/list jobs.png)
