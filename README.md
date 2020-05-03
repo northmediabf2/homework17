@@ -8,13 +8,20 @@
 Запустить систему на два часа. Для сдачи ДЗ приложить list jobs, list files jobid=<id>
 и сами конфиги bacula-*
 
-Запуск лаборатарной работы: 
-cd vagrant-bacula; vagrant up
-
 
 list jobs
-list files jobid=<id>
+"list files jobid=<id>"
+
+
+Запуск лаборатарной работы: 
+cd vagrant-bacula; vagrant up
 
 Screenshot
 * list jobs
 ![list jobs](screen/list_jobs.png)
+
+* list files jobid=1
+![list files jobid](screen/list files jobid=1.png)
+
+* list files jobid=7
+![list files jobid](screen/list files jobid=7.png)
